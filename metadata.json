@@ -1,0 +1,8 @@
+{
+  "name": "demo Smart Study - Preparatório ETEC",
+  "description": "Uma landing page de alta conversão para o Smart Study, focada no vestibulinho ETEC, com demonstração de recursos premium e integração com Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
